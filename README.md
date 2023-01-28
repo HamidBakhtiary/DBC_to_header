@@ -25,3 +25,6 @@ modify this values in visual studio consul application "source.cpp" file if you 
 	string Author = "Bakhtiary";
 
 //****************************************************************************************************************//
+
+
+You need to download visual studio 2012.
